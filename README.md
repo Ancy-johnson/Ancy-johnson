@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ancy-Johnson.
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning artificial intelligence.
-- ⚡ Fun fact:A commerce student turned to IT field.
+- ⚡ Fun fact:A commerce graduate turned to ai developer
+  .
 
 <!---
 Ancy-johnson/Ancy-johnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
